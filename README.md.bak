@@ -1,0 +1,108 @@
+# BLAST pipeline for genes' and genomes' alignment
+Ran Duan / March 17th 2017 ;)
+Emai: 413677671@qq.com
+
+
+Info
+===================
+The pipeline was initially designed to tackle the issue of automatically doing 
+genes-to-genomes and genomes-to-genoems alignment using BLAST(The Basic Local 
+Alignment Search Tool). It is consisted of three main fuctions: building up the 
+testing samples genomes database in the directory db, runing BLASTing automatically
+to do pair-wise alignment of the query sequences(proteins or genomes)and the
+subject sequences- the database and sorting the overall outcome by filtering 
+the coverage and identity values of the BLAST results.
+
+The latest build has been tested in a genomics project, but we're still trying 
+to keep stuffs as simple as possible for users(e.g. you can input some options 
+in command mode in some scripts). Still it may requried to be modified 
+manually in source codes to fit in different sorts of works in hand.If you're
+having any trouble with building the environment after following the instructions 
+below please contact the email above for help.
+
+
+Client Build System
+===================
+
+The program is tested to work properly under CentOS 7 and Perl 5.26.1. 
+
+Install BLAST first before using the pipeline. The updated BLAST toolkit local 
+version can be downloaded from NCBI website(https://blast.ncbi.nlm.nih.gov/Bla
+st.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download).
+
+The Linux environment should be set properly to run at the main path of BLAST bin. 
+It can be simply done by using command for example:
+
+vim /etc/profile    
+export CLASSPATH=./$BLAST_PATH$/bin
+
+Otherwise, absolute path should be repalced in the source code of TBLASTn.sh. 
+Also, you should always pay attention to capital letters in Linux command.
+
+
+
+
+Complete Client Build
+================================================
+
+There are many moving parts to the client build system, but the entrypoint for
+most people is the 'client' rule in the Makefile at the root of the Galaxy
+repository.  Execute the following to perform a complete build suitable for
+local development, including dependency staging, style building, script
+processing and bundling.
+
+    make client
+
+Note: Don't commit the files that 'make client' creates.  This is a
+development-specific build which includes extra debugging features, and
+excludes several production optimizations made during the build process.
+
+For a production build, suitable for committing to the repository, or deploying
+to a live server, use the following:
+
+    make client-production
+
+And, lastly, if you want a production build that includes sourcemaps to allow
+for perusal of the page-level javascript to facilitate live-server debugging,
+use:
+
+    make client-production-maps
+
+
+Automatic Rebuilding (Watch Mode)
+=================================
+
+When you're actively developing, it is sometimes convenient to have the client
+automatically rebuild every time you save a file.  You can do this using:
+
+    make client-watch
+
+This will first stage any dependencies (yarn-installed packages like jquery,
+etc), and then will watch for changes in any of the galaxy client source files.
+When a file is changed, the client will automatically rebuild, after which you
+can usually force refresh your browser to see changes.  Note that it is still
+recommended to run 'make client' after you are finished actively developing
+using 'make client-watch'.
+
+
+Changing Styles/CSS
+===================
+
+The CSS and styling used by Galaxy is also controlled from this directory.
+Galaxy uses LESS, a superset of CSS that compiles to CSS, for its styling. LESS
+files are kept in client/galaxy/style/less. Compiled CSS is in
+static/style/blue.
+
+As mentioned above, 'make client' will also rebuild styles.  If you *only* want
+to run the style task, use the following command from the `client` directory:
+
+    yarn run style
+
+
+References
+===================
+
+Altschul, S.F., Gish, W., Miller, W., Myers, E.W. & Lipman, D.J. (1990) "Basic local alignment search tool." J. Mol. Biol. 215:403-410. PubMed
+
+Wall, Larry. "The Perl programming language." (1994).
+

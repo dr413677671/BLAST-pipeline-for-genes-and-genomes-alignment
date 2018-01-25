@@ -1,0 +1,44 @@
+cd '/root/Desktop/Bioinformatics_Experiment/Experiment03/Step04_Annotation/blast' 
+
+echo "TBLASTn System"
+read -p "submit mode:1 for namemode,2 for setmode(GeneSort Directory)    " mod
+if test $mod -eq "1";
+then
+echo "11111111111111111111111111111"
+read -p "submit queryseqname:"  val
+echo "queryseqname:$val"
+for file in ./*.nin
+do
+    if test -f $file
+    then
+filename=${file##*/}  
+cutfilename=${filename%%.*} 
+ tblastn -query $val.fna -db $cutfilename -out ./outcome/$cutfilename.out -evalue 0.001
+#        makeblastdb-in $file -out ${filename%.*} -dbtype nucl
+    fi 
+    
+done
+
+
+else
+for query in ./GeneSort/*.txt
+do
+cutqueryname=${query##*/}  
+ mkdir ./outcome/$cutqueryname
+for file in ./db/*.nin
+do
+    if test -f $file
+    then
+   
+filename=${file##*/}  
+cutfilename=${filename%%.*} 
+ tblastn -query ./GeneSort/$cutqueryname -db ./db/$cutfilename -out ./outcome/$cutqueryname/$cutfilename.out -evalue 0.001
+#        makeblastdb-in $file -out ${filename%.*} -dbtype nucl
+    fi  
+    
+done
+    done  
+
+
+
+fi

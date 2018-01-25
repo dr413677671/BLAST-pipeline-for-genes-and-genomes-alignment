@@ -1,0 +1,1307 @@
+Statistics of BLASTing    
+
+Sequences producing significant alignments:                       Score     E
+                                                                  (Bits)  Value
+
+M768_00700--NotNucleotides.txt
+
+
+  gi|922585196|gb|ATNL01000006.1| Cellulosimicrobium cellulans F1...  4229    0.0  
+
+ Score = 4229 bits (10967),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 2547/2547 (100%), Positives = 2547/2547 (100%), Gaps = 0/2547 (0%)
+  Coverage  =  0.96991622239147      Length  =  2626
+    
+  NZ_JNBQ01000003.1 Cellulosimicrobium funkei strain U11 contig00...  2469    0.0  
+
+ Score = 2469 bits (6399),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1676/2608 (64%), Positives = 1922/2608 (74%), Gaps = 79/2608 (3%)
+  Coverage  =  0.993145468392993      Length  =  2626
+    
+  NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome        2120    0.0  
+ Score = 2120 bits (5494),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1477/2612 (57%), Positives = 1769/2612 (68%), Gaps = 128/2612 (5%)
+  Coverage  =  0.994668697638995      Length  =  2626
+    
+  NZ_JOFV01000021.1 Oerskovia turbata strain NRRL B-8019 contig21...  2451    0.0  
+
+ Score = 2451 bits (6351),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1565/2390 (65%), Positives = 1763/2390 (74%), Gaps = 88/2390 (4%)
+  Coverage  =  0.91012947448591      Length  =  2626
+    
+  NZ_LRIE01000075.1 Oerskovia enterophila strain VJag OJAG_contig...  2455    0.0  
+
+ Score = 2455 bits (6363),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1565/2391 (65%), Positives = 1771/2391 (74%), Gaps = 89/2391 (4%)
+  Coverage  =  0.910510281797411      Length  =  2626
+    
+
+M768_00810--NotNucleotides.txt
+
+
+  gi|922585196|gb|ATNL01000006.1| Cellulosimicrobium cellulans F1...  2288    0.0  
+
+ Score = 2288 bits (5929),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1141/1141 (100%), Positives = 1141/1141 (100%), Gaps = 0/1141 (0%)
+  Coverage  =  0.964497041420118      Length  =  1183
+    
+
+
+
+  NZ_JNBQ01000003.1 Cellulosimicrobium funkei strain U11 contig00...  2260    0.0  
+
+ Score = 2260 bits (5857),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1121/1141 (98%), Positives = 1133/1141 (99%), Gaps = 0/1141 (0%)
+  Coverage  =  0.964497041420118      Length  =  1183
+    
+
+
+  NZ_JOFV01000009.1 Oerskovia turbata strain NRRL B-8019 contig9....  371     2e-107
+
+ Score = 371 bits (952),  Expect = 2e-107, Method: Compositional matrix adjust.
+ Identities = 240/613 (39%), Positives = 324/613 (53%), Gaps = 66/613 (11%)
+  Coverage  =  0.518174133558749      Length  =  1183
+    
+  NZ_ARQM01000010.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  796     0.0  
+
+ Score = 796 bits (2056),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 436/830 (53%), Positives = 545/830 (66%), Gaps = 26/830 (3%)
+  Coverage  =  0.701606086221471      Length  =  1183
+    
+  NZ_LRIE01000014.1 Oerskovia enterophila strain VJag OJAG_contig...  377     1e-109
+
+ Score = 377 bits (968),  Expect = 1e-109, Method: Compositional matrix adjust.
+ Identities = 247/626 (39%), Positives = 337/626 (54%), Gaps = 66/626 (11%)
+  Coverage  =  0.52916314454776      Length  =  1183
+    
+  NZ_JAGJ01000004.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  2064    0.0  
+
+ Score = 2064 bits (5348),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1022/1141 (90%), Positives = 1068/1141 (94%), Gaps = 3/1141 (0%)
+  Coverage  =  0.964497041420118      Length  =  1183
+    
+  NZ_AXCX01000013.1 Actinotalea fermentans ATCC 43279 = JCM 9966 ...  231     3e-62
+
+ Score = 231 bits (589),  Expect = 3e-62, Method: Compositional matrix adjust.
+ Identities = 198/607 (33%), Positives = 270/607 (44%), Gaps = 90/607 (15%)
+  Coverage  =  0.513102282333052      Length  =  1183
+    
+
+M768_01395--NotNucleotides.txt
+
+
+  gi|922585196|gb|ATNL01000006.1| Cellulosimicrobium cellulans F1...  1512    0.0   
+
+ Score = 1512 bits (3914),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 858/858 (100%), Positives = 858/858 (100%), Gaps = 0/858 (0%)
+  Coverage  =  0.953333333333333      Length  =  900
+    
+
+  NZ_JNBQ01000003.1 Cellulosimicrobium funkei strain U11 contig00...  1493    0.0   
+
+ Score = 1493 bits (3864),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 851/858 (99%), Positives = 851/858 (99%), Gaps = 0/858 (0%)
+  Coverage  =  0.953333333333333      Length  =  900
+    
+
+
+
+  NZ_ARQM01000010.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  218     5e-59
+
+ Score = 218 bits (556),  Expect = 5e-59, Method: Compositional matrix adjust.
+ Identities = 250/808 (31%), Positives = 347/808 (43%), Gaps = 125/808 (15%)
+  Coverage  =  0.897777777777778      Length  =  900
+    
+  NZ_LRIE01000063.1 Oerskovia enterophila strain VJag OJAG_contig...  1291    0.0   
+
+ Score = 1291 bits (3341),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 682/825 (83%), Positives = 735/825 (89%), Gaps = 1/825 (0%)
+  Coverage  =  0.916666666666667      Length  =  900
+    
+  NZ_JAGJ01000008.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  433     4e-131
+
+ Score = 433 bits (1113),  Expect = 4e-131, Method: Compositional matrix adjust.
+ Identities = 279/681 (41%), Positives = 364/681 (53%), Gaps = 29/681 (4%)
+  Coverage  =  0.756666666666667      Length  =  900
+    
+
+M768_02295--NotNucleotides.txt
+
+
+  gi|922585196|gb|ATNL01000006.1| Cellulosimicrobium cellulans F1...  2219    0.0  
+
+ Score = 2219 bits (5751),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1257/1257 (100%), Positives = 1257/1257 (100%), Gaps = 0/1257 (0%)
+  Coverage  =  0.947963800904977      Length  =  1326
+    
+
+  NZ_JNBQ01000021.1 Cellulosimicrobium funkei strain U11 contig00...  2175    0.0  
+
+ Score = 2175 bits (5636),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1239/1257 (99%), Positives = 1243/1257 (99%), Gaps = 0/1257 (0%)
+  Coverage  =  0.947963800904977      Length  =  1326
+    
+
+  NZ_ARQM01000017.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  947     0.0  
+
+ Score = 947 bits (2449),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 524/680 (77%), Positives = 569/680 (84%), Gaps = 10/680 (1%)
+  Coverage  =  0.512820512820513      Length  =  1326
+    
+  NZ_LRIE01000084.1 Oerskovia enterophila strain VJag OJAG_contig...  1437    0.0  
+
+ Score = 1437 bits (3720),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 849/1242 (68%), Positives = 965/1242 (78%), Gaps = 21/1242 (2%)
+  Coverage  =  0.936651583710407      Length  =  1326
+    
+  NZ_JAGJ01000001.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  1993    0.0  
+
+ Score = 1993 bits (5164),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1147/1258 (91%), Positives = 1185/1258 (94%), Gaps = 2/1258 (0%)
+  Coverage  =  0.948717948717949      Length  =  1326
+    
+
+M768_02340--NotNucleotides.txt
+
+
+  gi|922585196|gb|ATNL01000006.1| Cellulosimicrobium cellulans F1...  3363    0.0  
+
+ Score = 3363 bits (8719),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1806/1806 (100%), Positives = 1806/1806 (100%), Gaps = 0/1806 (0%)
+  Coverage  =  1      Length  =  1806
+    
+
+
+  NZ_JNBQ01000021.1 Cellulosimicrobium funkei strain U11 contig00...  3345    0.0  
+
+ Score = 3345 bits (8674),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1796/1806 (99%), Positives = 1798/1806 (99%), Gaps = 0/1806 (0%)
+  Coverage  =  1      Length  =  1806
+    
+
+
+
+  NZ_ARQM01000010.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  1839    0.0  
+
+ Score = 1839 bits (4763),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 944/1281 (74%), Positives = 1060/1281 (83%), Gaps = 12/1281 (1%)
+  Coverage  =  0.709302325581395      Length  =  1806
+    
+  NZ_LRIE01000084.1 Oerskovia enterophila strain VJag OJAG_contig...  2385    0.0  
+
+ Score = 2385 bits (6182),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1286/1770 (73%), Positives = 1436/1770 (81%), Gaps = 21/1770 (1%)
+  Coverage  =  0.980066445182724      Length  =  1806
+    
+  NZ_JAGJ01000001.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  3024    0.0  
+
+ Score = 3024 bits (7841),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1595/1758 (91%), Positives = 1669/1758 (95%), Gaps = 2/1758 (0%)
+  Coverage  =  0.973421926910299      Length  =  1806
+    
+
+M768_03010--NotNucleotides.txt
+
+
+  gi|922585196|gb|ATNL01000006.1| Cellulosimicrobium cellulans F1...  2654    0.0  
+
+ Score = 2654 bits (6878),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1549/1549 (100%), Positives = 1549/1549 (100%), Gaps = 0/1549 (0%)
+  Coverage  =  0.984116899618806      Length  =  1574
+    
+  NC_015588.1 Isoptericola variabilis 225, complete genome            797     0.0  
+ Score = 797 bits (2058),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 522/812 (64%), Positives = 599/812 (74%), Gaps = 23/812 (3%)
+  Coverage  =  0.515883100381194      Length  =  1574
+    
+  NZ_BBRD01000001.1 Demequina aestuarii DNA, contig: scaffold0000...  206     6e-54
+
+ Score = 206 bits (523),  Expect = 6e-54, Method: Compositional matrix adjust.
+ Identities = 241/657 (37%), Positives = 327/657 (50%), Gaps = 89/657 (14%)
+  Coverage  =  0.417407878017789      Length  =  1574
+    
+  NC_013530.1 Xylanimonas cellulosilytica DSM 15894, complete genome  1338    0.0  
+ Score = 1338 bits (3462),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 848/1455 (58%), Positives = 1017/1455 (70%), Gaps = 45/1455 (3%)
+  Coverage  =  0.924396442185515      Length  =  1574
+    
+  NC_015514.1 Cellulomonas fimi ATCC 484, complete genome             1276    0.0  
+ Score = 1276 bits (3301),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 836/1452 (58%), Positives = 995/1452 (69%), Gaps = 51/1452 (4%)
+  Coverage  =  0.922490470139771      Length  =  1574
+    
+  NZ_JNBQ01000002.1 Cellulosimicrobium funkei strain U11 contig00...  2635    0.0  
+
+ Score = 2635 bits (6831),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1533/1549 (99%), Positives = 1542/1549 (99%), Gaps = 0/1549 (0%)
+  Coverage  =  0.984116899618806      Length  =  1574
+    
+  NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome        758     0.0  
+ Score = 758 bits (1956),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 498/813 (61%), Positives = 580/813 (71%), Gaps = 27/813 (3%)
+  Coverage  =  0.516518424396442      Length  =  1574
+    
+  NC_014151.1 Cellulomonas flavigena DSM 20109, complete genome       1205    0.0  
+ Score = 1205 bits (3117),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 815/1454 (56%), Positives = 959/1454 (66%), Gaps = 52/1454 (4%)
+  Coverage  =  0.923761118170267      Length  =  1574
+    
+  NZ_JOFV01000006.1 Oerskovia turbata strain NRRL B-8019 contig6....  1869    0.0  
+
+ Score = 1869 bits (4842),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1096/1557 (70%), Positives = 1244/1557 (80%), Gaps = 25/1557 (2%)
+  Coverage  =  0.989199491740788      Length  =  1574
+    
+  NZ_ARQM01000011.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  1670    0.0  
+
+ Score = 1670 bits (4325),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 999/1455 (69%), Positives = 1137/1455 (78%), Gaps = 31/1455 (2%)
+  Coverage  =  0.924396442185515      Length  =  1574
+    
+  NZ_LRIE01000069.1 Oerskovia enterophila strain VJag OJAG_contig...  1864    0.0  
+
+ Score = 1864 bits (4828),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1096/1557 (70%), Positives = 1243/1557 (80%), Gaps = 25/1557 (2%)
+  Coverage  =  0.989199491740788      Length  =  1574
+    
+  NZ_JAGJ01000001.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  2366    0.0  
+
+ Score = 2366 bits (6131),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1366/1553 (88%), Positives = 1433/1553 (92%), Gaps = 5/1553 (0%)
+  Coverage  =  0.986658195679797      Length  =  1574
+    
+  NZ_AXCX01000119.1 Actinotalea fermentans ATCC 43279 = JCM 9966 ...  652     0.0  
+
+ Score = 652 bits (1681),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 546/1281 (43%), Positives = 695/1281 (54%), Gaps = 127/1281 (10%)
+  Coverage  =  0.813850063532402      Length  =  1574
+    
+
+M768_04525--NotNucleotides.txt
+
+
+  gi|922585196|gb|ATNL01000006.1| Cellulosimicrobium cellulans F1...  2422    0.0  
+
+ Score = 2422 bits (6277),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1266/1267 (99%), Positives = 1267/1267 (100%), Gaps = 0/1267 (0%)
+  Coverage  =  1      Length  =  1267
+    
+
+
+
+
+  NZ_JNBQ01000002.1 Cellulosimicrobium funkei strain U11 contig00...  2399    0.0  
+
+ Score = 2399 bits (6217),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1250/1267 (99%), Positives = 1256/1267 (99%), Gaps = 0/1267 (0%)
+  Coverage  =  1      Length  =  1267
+    
+  NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome        1358    0.0  
+ Score = 1358 bits (3514),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 736/1152 (64%), Positives = 847/1152 (74%), Gaps = 17/1152 (1%)
+  Coverage  =  0.909234411996843      Length  =  1267
+    
+
+
+  NZ_ARQM01000011.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  1093    0.0  
+
+ Score = 1093 bits (2826),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 555/819 (68%), Positives = 640/819 (78%), Gaps = 10/819 (1%)
+  Coverage  =  0.646408839779006      Length  =  1267
+    
+  NZ_LRIE01000056.1 Oerskovia enterophila strain VJag OJAG_contig...  1684    0.0  
+
+ Score = 1684 bits (4361),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 908/1273 (71%), Positives = 1029/1273 (81%), Gaps = 11/1273 (1%)
+  Coverage  =  1.00473559589582      Length  =  1267
+    
+
+
+
+M768_04540--NotNucleotides.txt
+
+
+  gi|922585196|gb|ATNL01000006.1| Cellulosimicrobium cellulans F1...  1439    0.0  
+
+ Score = 1439 bits (3724),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 805/805 (100%), Positives = 805/805 (100%), Gaps = 0/805 (0%)
+  Coverage  =  1      Length  =  805
+    
+  NC_013530.1 Xylanimonas cellulosilytica DSM 15894, complete genome  62.0    2e-10
+ Score = 62.0 bits (149),  Expect = 2e-10, Method: Compositional matrix adjust.
+ Identities = 93/374 (25%), Positives = 141/374 (38%), Gaps = 91/374 (24%)
+  Coverage  =  0.464596273291925      Length  =  805
+    
+  NC_015514.1 Cellulomonas fimi ATCC 484, complete genome             57.8    4e-09
+ Score = 57.8 bits (138),  Expect = 4e-09, Method: Compositional matrix adjust.
+ Identities = 87/364 (24%), Positives = 135/364 (37%), Gaps = 83/364 (23%)
+  Coverage  =  0.452173913043478      Length  =  805
+    
+  NZ_JNBQ01000002.1 Cellulosimicrobium funkei strain U11 contig00...  1421    0.0  
+
+ Score = 1421 bits (3678),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 793/805 (99%), Positives = 797/805 (99%), Gaps = 0/805 (0%)
+  Coverage  =  1      Length  =  805
+    
+
+  NC_014151.1 Cellulomonas flavigena DSM 20109, complete genome       165     2e-42
+ Score = 165 bits (418),  Expect = 2e-42, Method: Compositional matrix adjust.
+ Identities = 156/511 (31%), Positives = 220/511 (43%), Gaps = 111/511 (22%)
+  Coverage  =  0.634782608695652      Length  =  805
+    
+
+
+
+  NZ_JAGJ01000018.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  1349    0.0  
+
+ Score = 1349 bits (3491),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 713/768 (93%), Positives = 735/768 (96%), Gaps = 0/768 (0%)
+  Coverage  =  0.954037267080745      Length  =  805
+    
+  NZ_AXCX01000073.1 Actinotalea fermentans ATCC 43279 = JCM 9966 ...  47.4    4e-06
+
+ Score = 47.4 bits (111),  Expect = 4e-06, Method: Compositional matrix adjust.
+ Identities = 82/368 (22%), Positives = 128/368 (35%), Gaps = 87/368 (24%)
+  Coverage  =  0.457142857142857      Length  =  805
+    
+
+M768_04560--NotNucleotides.txt
+
+
+  gi|922585196|gb|ATNL01000006.1| Cellulosimicrobium cellulans F1...  949     0.0  
+
+ Score = 949 bits (2452),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 669/669 (100%), Positives = 669/669 (100%), Gaps = 0/669 (0%)
+  Coverage  =  1      Length  =  669
+    
+
+  NC_015514.1 Cellulomonas fimi ATCC 484, complete genome             207     6e-57
+ Score = 207 bits (526),  Expect = 6e-57, Method: Compositional matrix adjust.
+ Identities = 188/518 (36%), Positives = 243/518 (47%), Gaps = 46/518 (9%)
+  Coverage  =  0.774289985052317      Length  =  669
+    
+  NZ_JNBQ01000002.1 Cellulosimicrobium funkei strain U11 contig00...  937     0.0  
+
+ Score = 937 bits (2421),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 662/669 (99%), Positives = 665/669 (99%), Gaps = 0/669 (0%)
+  Coverage  =  1      Length  =  669
+    
+
+  NZ_JOFV01000011.1 Oerskovia turbata strain NRRL B-8019 contig11...  196     3e-53
+
+ Score = 196 bits (497),  Expect = 3e-53, Method: Compositional matrix adjust.
+ Identities = 154/314 (49%), Positives = 182/314 (58%), Gaps = 16/314 (5%)
+  Coverage  =  0.469357249626308      Length  =  669
+    
+  NZ_ARQM01000012.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  577     0.0  
+
+ Score = 577 bits (1486),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 383/561 (68%), Positives = 436/561 (78%), Gaps = 5/561 (1%)
+  Coverage  =  0.838565022421525      Length  =  669
+    
+  NZ_LRIE01000056.1 Oerskovia enterophila strain VJag OJAG_contig...  625     0.0  
+
+ Score = 625 bits (1612),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 402/597 (67%), Positives = 472/597 (79%), Gaps = 5/597 (1%)
+  Coverage  =  0.89237668161435      Length  =  669
+    
+  NZ_JAGJ01000018.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  816     0.0  
+
+ Score = 816 bits (2109),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 522/603 (87%), Positives = 555/603 (92%), Gaps = 0/603 (0%)
+  Coverage  =  0.901345291479821      Length  =  669
+    
+
+M768_05900--NotNucleotides.txt
+
+
+  gi|922585196|gb|ATNL01000006.1| Cellulosimicrobium cellulans F1...  3766    0.0  
+
+ Score = 3766 bits (9766),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 2003/2003 (100%), Positives = 2003/2003 (100%), Gaps = 0/2003 (0%)
+  Coverage  =  0.970916141541444      Length  =  2063
+    
+  NC_015588.1 Isoptericola variabilis 225, complete genome            2823    0.0  
+ Score = 2823 bits (7319),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1486/1915 (78%), Positives = 1638/1915 (86%), Gaps = 19/1915 (1%)
+  Coverage  =  0.92825981580223      Length  =  2063
+    
+
+  NC_013530.1 Xylanimonas cellulosilytica DSM 15894, complete genome  2602    0.0  
+ Score = 2602 bits (6743),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1413/1898 (74%), Positives = 1554/1898 (82%), Gaps = 50/1898 (3%)
+  Coverage  =  0.920019389238972      Length  =  2063
+    
+  NC_015514.1 Cellulomonas fimi ATCC 484, complete genome             2284    0.0  
+ Score = 2284 bits (5918),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1296/1927 (67%), Positives = 1460/1927 (76%), Gaps = 71/1927 (4%)
+  Coverage  =  0.934076587493941      Length  =  2063
+    
+  NZ_JNBQ01000032.1 Cellulosimicrobium funkei strain U11 contig00...  3732    0.0  
+
+ Score = 3732 bits (9677),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1985/2003 (99%), Positives = 1990/2003 (99%), Gaps = 0/2003 (0%)
+  Coverage  =  0.970916141541444      Length  =  2063
+    
+  NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome        2736    0.0  
+ Score = 2736 bits (7091),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1470/1910 (77%), Positives = 1613/1910 (84%), Gaps = 23/1910 (1%)
+  Coverage  =  0.925836160930683      Length  =  2063
+    
+  NC_014151.1 Cellulomonas flavigena DSM 20109, complete genome       2123    0.0  
+ Score = 2123 bits (5500),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1249/1935 (65%), Positives = 1407/1935 (73%), Gaps = 70/1935 (4%)
+  Coverage  =  0.937954435288415      Length  =  2063
+    
+  NZ_JOFV01000005.1 Oerskovia turbata strain NRRL B-8019 contig5....  2868    0.0  
+
+ Score = 2868 bits (7435),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1505/1977 (76%), Positives = 1678/1977 (85%), Gaps = 29/1977 (1%)
+  Coverage  =  0.958313136209404      Length  =  2063
+    
+  NZ_ARQM01000011.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  1291    0.0  
+
+ Score = 1291 bits (3341),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 712/1016 (70%), Positives = 795/1016 (78%), Gaps = 37/1016 (4%)
+  Coverage  =  0.492486669898206      Length  =  2063
+    
+  NZ_LRIE01000049.1 Oerskovia enterophila strain VJag OJAG_contig...  2871    0.0  
+
+ Score = 2871 bits (7443),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1507/1977 (76%), Positives = 1677/1977 (85%), Gaps = 27/1977 (1%)
+  Coverage  =  0.958313136209404      Length  =  2063
+    
+  NZ_JAGJ01000006.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  3518    0.0  
+
+ Score = 3518 bits (9121),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1862/2004 (93%), Positives = 1920/2004 (96%), Gaps = 1/2004 (0%)
+  Coverage  =  0.971400872515754      Length  =  2063
+    
+  NZ_AXCX01000051.1 Actinotalea fermentans ATCC 43279 = JCM 9966 ...  2202    0.0  
+
+ Score = 2202 bits (5706),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1263/1932 (65%), Positives = 1444/1932 (75%), Gaps = 66/1932 (3%)
+  Coverage  =  0.936500242365487      Length  =  2063
+    
+
+M768_06610--NotNucleotides.txt
+
+
+  gi|922584629|gb|ATNL01000007.1| Cellulosimicrobium cellulans F1...  3679    0.0   
+
+ Score = 3679 bits (9540),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1860/1860 (100%), Positives = 1860/1860 (100%), Gaps = 0/1860 (0%)
+  Coverage  =  1      Length  =  1860
+    
+  NC_015588.1 Isoptericola variabilis 225, complete genome            2229    0.0  
+ Score = 2229 bits (5776),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1155/1579 (73%), Positives = 1302/1579 (82%), Gaps = 40/1579 (3%)
+  Coverage  =  0.848924731182796      Length  =  1860
+    
+
+
+  NZ_JNBQ01000058.1 Cellulosimicrobium funkei strain U11 contig00...  3658    0.0   
+
+ Score = 3658 bits (9486),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1847/1860 (99%), Positives = 1853/1860 (99%), Gaps = 0/1860 (0%)
+  Coverage  =  1      Length  =  1860
+    
+  NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome        860     0.0  
+ Score = 860 bits (2221),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 602/1570 (38%), Positives = 848/1570 (54%), Gaps = 114/1570 (7%)
+  Coverage  =  0.844086021505376      Length  =  1860
+    
+
+  NZ_JOFV01000002.1 Oerskovia turbata strain NRRL B-8019 contig2....  2854    0.0   
+
+ Score = 2854 bits (7398),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1421/1753 (81%), Positives = 1550/1753 (88%), Gaps = 10/1753 (1%)
+  Coverage  =  0.94247311827957      Length  =  1860
+    
+  NZ_ARQM01000015.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  877     0.0   
+
+ Score = 877 bits (2266),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 613/1573 (39%), Positives = 850/1573 (54%), Gaps = 121/1573 (8%)
+  Coverage  =  0.845698924731183      Length  =  1860
+    
+  NZ_LRIE01000058.1 Oerskovia enterophila strain VJag OJAG_contig...  2871    0.0   
+
+ Score = 2871 bits (7443),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1420/1753 (81%), Positives = 1552/1753 (89%), Gaps = 10/1753 (1%)
+  Coverage  =  0.94247311827957      Length  =  1860
+    
+  NZ_JAGJ01000002.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  3447    0.0   
+
+ Score = 3447 bits (8939),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1743/1860 (94%), Positives = 1794/1860 (96%), Gaps = 0/1860 (0%)
+  Coverage  =  1      Length  =  1860
+    
+
+
+M768_06655--NotNucleotides.txt
+
+
+  gi|922584629|gb|ATNL01000007.1| Cellulosimicrobium cellulans F1...  3209    0.0   
+
+ Score = 3209 bits (8321),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1617/1617 (100%), Positives = 1617/1617 (100%), Gaps = 0/1617 (0%)
+  Coverage  =  0.984774665042631      Length  =  1642
+    
+  NC_015588.1 Isoptericola variabilis 225, complete genome            2101    0.0  
+ Score = 2101 bits (5444),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1056/1531 (69%), Positives = 1222/1531 (80%), Gaps = 7/1531 (0%)
+  Coverage  =  0.932399512789281      Length  =  1642
+    
+
+  NC_015514.1 Cellulomonas fimi ATCC 484, complete genome             124     6e-29
+ Score = 124 bits (311),  Expect = 6e-29, Method: Compositional matrix adjust.
+ Identities = 192/676 (28%), Positives = 261/676 (39%), Gaps = 135/676 (20%)
+  Coverage  =  0.411693057247259      Length  =  1642
+    
+  NZ_JNBQ01000033.1 Cellulosimicrobium funkei strain U11 contig00...  2676    0.0   
+
+ Score = 2676 bits (6937),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1344/1618 (83%), Positives = 1459/1618 (90%), Gaps = 1/1618 (0%)
+  Coverage  =  0.985383678440926      Length  =  1642
+    
+  NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome        2202    0.0  
+ Score = 2202 bits (5707),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1126/1616 (70%), Positives = 1302/1616 (81%), Gaps = 22/1616 (1%)
+  Coverage  =  0.984165651644336      Length  =  1642
+    
+  NC_014151.1 Cellulomonas flavigena DSM 20109, complete genome       119     3e-27
+ Score = 119 bits (297),  Expect = 3e-27, Method: Compositional matrix adjust.
+ Identities = 182/675 (27%), Positives = 262/675 (39%), Gaps = 132/675 (20%)
+  Coverage  =  0.411084043848965      Length  =  1642
+    
+  NZ_JOFV01000002.1 Oerskovia turbata strain NRRL B-8019 contig2....  2147    0.0   
+
+ Score = 2147 bits (5564),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1072/1530 (70%), Positives = 1246/1530 (81%), Gaps = 8/1530 (1%)
+  Coverage  =  0.931790499390987      Length  =  1642
+    
+  NZ_ARQM01000015.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  2197    0.0   
+
+ Score = 2197 bits (5694),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1103/1529 (72%), Positives = 1264/1529 (83%), Gaps = 6/1529 (0%)
+  Coverage  =  0.931181485992692      Length  =  1642
+    
+  NZ_LRIE01000058.1 Oerskovia enterophila strain VJag OJAG_contig...  2160    0.0   
+
+ Score = 2160 bits (5596),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1078/1531 (70%), Positives = 1250/1531 (82%), Gaps = 9/1531 (1%)
+  Coverage  =  0.932399512789281      Length  =  1642
+    
+  NZ_JAGJ01000002.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  2976    0.0   
+
+ Score = 2976 bits (7714),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1478/1617 (91%), Positives = 1553/1617 (96%), Gaps = 0/1617 (0%)
+  Coverage  =  0.984774665042631      Length  =  1642
+    
+
+
+M768_08215--NotNucleotides.txt
+
+
+  gi|922584629|gb|ATNL01000007.1| Cellulosimicrobium cellulans F1...  2392    0.0  
+
+ Score = 2392 bits (6198),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1281/1282 (99%), Positives = 1282/1282 (100%), Gaps = 0/1282 (0%)
+  Coverage  =  1      Length  =  1282
+    
+
+
+  NC_013530.1 Xylanimonas cellulosilytica DSM 15894, complete genome  821     0.0  
+ Score = 821 bits (2121),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 491/888 (55%), Positives = 597/888 (67%), Gaps = 39/888 (4%)
+  Coverage  =  0.692667706708268      Length  =  1282
+    
+  NC_015514.1 Cellulomonas fimi ATCC 484, complete genome             1013    0.0  
+ Score = 1013 bits (2618),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 629/1219 (52%), Positives = 767/1219 (63%), Gaps = 59/1219 (5%)
+  Coverage  =  0.950858034321373      Length  =  1282
+    
+  NZ_JNBQ01000034.1 Cellulosimicrobium funkei strain U11 contig00...  2363    0.0  
+
+ Score = 2363 bits (6125),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1266/1282 (99%), Positives = 1273/1282 (99%), Gaps = 0/1282 (0%)
+  Coverage  =  1      Length  =  1282
+    
+  NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome        1487    0.0  
+ Score = 1487 bits (3850),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 856/1289 (66%), Positives = 978/1289 (76%), Gaps = 41/1289 (3%)
+  Coverage  =  1.00546021840874      Length  =  1282
+    
+  NC_014151.1 Cellulomonas flavigena DSM 20109, complete genome       1239    0.0  
+ Score = 1239 bits (3207),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 726/1211 (60%), Positives = 840/1211 (69%), Gaps = 53/1211 (4%)
+  Coverage  =  0.944617784711388      Length  =  1282
+    
+
+
+
+
+  NZ_AXCX01000104.1 Actinotalea fermentans ATCC 43279 = JCM 9966 ...  1102    0.0  
+
+ Score = 1102 bits (2849),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 636/1167 (54%), Positives = 778/1167 (67%), Gaps = 40/1167 (3%)
+  Coverage  =  0.910296411856474      Length  =  1282
+    
+
+M768_09190--NotNucleotides.txt
+
+
+  gi|922584629|gb|ATNL01000007.1| Cellulosimicrobium cellulans F1...  898     0.0  
+
+ Score = 898 bits (2320),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 505/505 (100%), Positives = 505/505 (100%), Gaps = 0/505 (0%)
+  Coverage  =  0.908273381294964      Length  =  556
+    
+  NC_015588.1 Isoptericola variabilis 225, complete genome            209     8e-59
+ Score = 209 bits (532),  Expect = 8e-59, Method: Compositional matrix adjust.
+ Identities = 126/265 (48%), Positives = 177/265 (67%), Gaps = 10/265 (4%)
+  Coverage  =  0.476618705035971      Length  =  556
+    
+
+  NZ_JNBQ01000006.1 Cellulosimicrobium funkei strain U11 contig00...  897     0.0  
+
+ Score = 897 bits (2317),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 503/505 (99%), Positives = 505/505 (100%), Gaps = 0/505 (0%)
+  Coverage  =  0.908273381294964      Length  =  556
+    
+  NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome        192     6e-53
+ Score = 192 bits (488),  Expect = 6e-53, Method: Compositional matrix adjust.
+ Identities = 130/271 (48%), Positives = 171/271 (63%), Gaps = 16/271 (6%)
+  Coverage  =  0.487410071942446      Length  =  556
+    
+
+  NZ_ARQM01000005.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  632     0.0  
+
+ Score = 632 bits (1630),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 355/460 (77%), Positives = 390/460 (85%), Gaps = 8/460 (2%)
+  Coverage  =  0.827338129496403      Length  =  556
+    
+
+  NZ_JAGJ01000021.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  802     0.0  
+
+ Score = 802 bits (2072),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 438/505 (87%), Positives = 476/505 (94%), Gaps = 0/505 (0%)
+  Coverage  =  0.908273381294964      Length  =  556
+    
+
+M768_10165--NotNucleotides.txt
+
+
+  gi|922584030|gb|ATNL01000008.1| Cellulosimicrobium cellulans F1...  578     0.0  
+
+ Score = 578 bits (1489),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 315/315 (100%), Positives = 315/315 (100%), Gaps = 0/315 (0%)
+  Coverage  =  0.846774193548387      Length  =  372
+    
+  NC_015588.1 Isoptericola variabilis 225, complete genome            329     1e-102
+ Score = 329 bits (843),  Expect = 1e-102, Method: Compositional matrix adjust.
+ Identities = 178/222 (80%), Positives = 198/222 (89%), Gaps = 0/222 (0%)
+  Coverage  =  0.596774193548387      Length  =  372
+    
+  NZ_JNBQ01000001.1 Cellulosimicrobium funkei strain U11 contig00...  576     0.0  
+
+ Score = 576 bits (1484),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 311/314 (99%), Positives = 312/314 (99%), Gaps = 0/314 (0%)
+  Coverage  =  0.844086021505376      Length  =  372
+    
+
+  NZ_JOFV01000005.1 Oerskovia turbata strain NRRL B-8019 contig5....  144     1e-38
+
+ Score = 144 bits (364),  Expect = 1e-38, Method: Compositional matrix adjust.
+ Identities = 111/328 (34%), Positives = 161/328 (49%), Gaps = 58/328 (18%)
+  Coverage  =  0.881720430107527      Length  =  372
+    
+  NZ_ARQM01000010.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  161     3e-44
+
+ Score = 161 bits (407),  Expect = 3e-44, Method: Compositional matrix adjust.
+ Identities = 105/224 (47%), Positives = 134/224 (60%), Gaps = 10/224 (4%)
+  Coverage  =  0.602150537634409      Length  =  372
+    
+  NZ_LRIE01000058.1 Oerskovia enterophila strain VJag OJAG_contig...  146     3e-39
+
+ Score = 146 bits (369),  Expect = 3e-39, Method: Compositional matrix adjust.
+ Identities = 118/324 (36%), Positives = 169/324 (52%), Gaps = 53/324 (16%)
+  Coverage  =  0.870967741935484      Length  =  372
+    
+  NZ_JAGJ01000013.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  167     2e-46
+
+ Score = 167 bits (423),  Expect = 2e-46, Method: Compositional matrix adjust.
+ Identities = 103/222 (46%), Positives = 133/222 (60%), Gaps = 12/222 (5%)
+  Coverage  =  0.596774193548387      Length  =  372
+    
+
+M768_10315--NotNucleotides.txt
+
+
+  gi|922584030|gb|ATNL01000008.1| Cellulosimicrobium cellulans F1...  3124    0.0  
+
+ Score = 3124 bits (8099),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1644/1644 (100%), Positives = 1644/1644 (100%), Gaps = 0/1644 (0%)
+  Coverage  =  0.987387387387387      Length  =  1665
+    
+  NZ_BBRD01000001.1 Demequina aestuarii DNA, contig: scaffold0000...  118     2e-27
+
+ Score = 118 bits (296),  Expect = 2e-27, Method: Compositional matrix adjust.
+ Identities = 180/732 (25%), Positives = 282/732 (39%), Gaps = 153/732 (21%)
+  Coverage  =  0.43963963963964      Length  =  1665
+    
+  NZ_JNBQ01000001.1 Cellulosimicrobium funkei strain U11 contig00...  3094    0.0  
+
+ Score = 3094 bits (8022),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1624/1644 (99%), Positives = 1636/1644 (99%), Gaps = 0/1644 (0%)
+  Coverage  =  0.987387387387387      Length  =  1665
+    
+  NC_014151.1 Cellulomonas flavigena DSM 20109, complete genome       90.9    8e-19
+ Score = 90.9 bits (224),  Expect = 8e-19, Method: Compositional matrix adjust.
+ Identities = 172/735 (23%), Positives = 263/735 (36%), Gaps = 160/735 (22%)
+  Coverage  =  0.441441441441441      Length  =  1665
+    
+
+  NZ_ARQM01000010.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  191     4e-49
+
+ Score = 191 bits (485),  Expect = 4e-49, Method: Compositional matrix adjust.
+ Identities = 233/825 (28%), Positives = 359/825 (44%), Gaps = 147/825 (18%)
+  Coverage  =  0.495495495495495      Length  =  1665
+    
+  NZ_LRIE01000070.1 Oerskovia enterophila strain VJag OJAG_contig...  181     3e-46
+
+ Score = 181 bits (459),  Expect = 3e-46, Method: Compositional matrix adjust.
+ Identities = 226/807 (28%), Positives = 338/807 (42%), Gaps = 129/807 (16%)
+  Coverage  =  0.484684684684685      Length  =  1665
+    
+  NZ_JAGJ01000009.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  2751    0.0  
+
+ Score = 2751 bits (7130),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1454/1644 (88%), Positives = 1529/1644 (93%), Gaps = 5/1644 (0%)
+  Coverage  =  0.987387387387387      Length  =  1665
+    
+
+M768_10505--NotNucleotides.txt
+
+
+  gi|922584030|gb|ATNL01000008.1| Cellulosimicrobium cellulans F1...  2132    0.0  
+
+ Score = 2132 bits (5525),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1107/1107 (100%), Positives = 1107/1107 (100%), Gaps = 0/1107 (0%)
+  Coverage  =  1      Length  =  1107
+    
+  NC_015588.1 Isoptericola variabilis 225, complete genome            1385    0.0  
+ Score = 1385 bits (3585),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 685/1071 (64%), Positives = 852/1071 (80%), Gaps = 14/1071 (1%)
+  Coverage  =  0.967479674796748      Length  =  1107
+    
+
+  NZ_JNBQ01000001.1 Cellulosimicrobium funkei strain U11 contig00...  2132    0.0  
+
+ Score = 2132 bits (5525),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1107/1107 (100%), Positives = 1107/1107 (100%), Gaps = 0/1107 (0%)
+  Coverage  =  1      Length  =  1107
+    
+
+
+  NZ_JOFV01000005.1 Oerskovia turbata strain NRRL B-8019 contig5....  1732    0.0  
+
+ Score = 1732 bits (4485),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 869/1067 (81%), Positives = 955/1067 (90%), Gaps = 2/1067 (0%)
+  Coverage  =  0.96386630532972      Length  =  1107
+    
+  NZ_ARQM01000015.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  1238    0.0  
+
+ Score = 1238 bits (3202),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 625/976 (64%), Positives = 767/976 (79%), Gaps = 12/976 (1%)
+  Coverage  =  0.881662149954833      Length  =  1107
+    
+  NZ_LRIE01000063.1 Oerskovia enterophila strain VJag OJAG_contig...  1744    0.0  
+
+ Score = 1744 bits (4516),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 880/1067 (82%), Positives = 957/1067 (90%), Gaps = 2/1067 (0%)
+  Coverage  =  0.96386630532972      Length  =  1107
+    
+  NZ_JAGJ01000009.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  1966    0.0  
+
+ Score = 1966 bits (5093),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1009/1106 (91%), Positives = 1062/1106 (96%), Gaps = 0/1106 (0%)
+  Coverage  =  0.999096657633243      Length  =  1107
+    
+
+
+M768_11570--NotNucleotides.txt
+
+
+  gi|922584030|gb|ATNL01000008.1| Cellulosimicrobium cellulans F1...  617     0.0  
+
+ Score = 617 bits (1591),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 385/385 (100%), Positives = 385/385 (100%), Gaps = 0/385 (0%)
+  Coverage  =  1      Length  =  385
+    
+  NC_015588.1 Isoptericola variabilis 225, complete genome            433     2e-138
+ Score = 433 bits (1113),  Expect = 2e-138, Method: Compositional matrix adjust.
+ Identities = 201/278 (72%), Positives = 235/278 (85%), Gaps = 2/278 (1%)
+  Coverage  =  0.722077922077922      Length  =  385
+    
+
+  NC_013530.1 Xylanimonas cellulosilytica DSM 15894, complete genome  40.0    3e-04
+ Score = 40.0 bits (92),  Expect = 3e-04, Method: Compositional matrix adjust.
+ Identities = 48/185 (26%), Positives = 73/185 (39%), Gaps = 43/185 (23%)
+  Coverage  =  0.480519480519481      Length  =  385
+    
+  NC_015514.1 Cellulomonas fimi ATCC 484, complete genome             40.8    2e-04
+ Score = 40.8 bits (94),  Expect = 2e-04, Method: Compositional matrix adjust.
+ Identities = 47/185 (25%), Positives = 73/185 (39%), Gaps = 43/185 (23%)
+  Coverage  =  0.480519480519481      Length  =  385
+    
+  NZ_JNBQ01000001.1 Cellulosimicrobium funkei strain U11 contig00...  617     0.0  
+
+ Score = 617 bits (1591),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 385/385 (100%), Positives = 385/385 (100%), Gaps = 0/385 (0%)
+  Coverage  =  1      Length  =  385
+    
+  NC_014151.1 Cellulomonas flavigena DSM 20109, complete genome       43.5    3e-05
+ Score = 43.5 bits (101),  Expect = 3e-05, Method: Compositional matrix adjust.
+ Identities = 47/185 (25%), Positives = 77/185 (42%), Gaps = 43/185 (23%)
+  Coverage  =  0.480519480519481      Length  =  385
+    
+  NZ_JOFV01000012.1 Oerskovia turbata strain NRRL B-8019 contig12...  40.0    3e-04
+
+ Score = 40.0 bits (92),  Expect = 3e-04, Method: Compositional matrix adjust.
+ Identities = 65/267 (24%), Positives = 105/267 (39%), Gaps = 69/267 (26%)
+  Coverage  =  0.693506493506494      Length  =  385
+    
+  NZ_ARQM01000010.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  431     2e-137
+
+ Score = 431 bits (1107),  Expect = 2e-137, Method: Compositional matrix adjust.
+ Identities = 208/283 (73%), Positives = 232/283 (82%), Gaps = 2/283 (1%)
+  Coverage  =  0.735064935064935      Length  =  385
+    
+  NZ_LRIE01000070.1 Oerskovia enterophila strain VJag OJAG_contig...  402     9e-128
+
+ Score = 402 bits (1034),  Expect = 9e-128, Method: Compositional matrix adjust.
+ Identities = 191/278 (69%), Positives = 221/278 (79%), Gaps = 2/278 (1%)
+  Coverage  =  0.722077922077922      Length  =  385
+    
+  NZ_JAGJ01000013.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  594     0.0  
+
+ Score = 594 bits (1532),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 334/350 (95%), Positives = 338/350 (97%), Gaps = 2/350 (1%)
+  Coverage  =  0.909090909090909      Length  =  385
+    
+  NZ_AXCX01000309.1 Actinotalea fermentans ATCC 43279 = JCM 9966 ...  41.6    8e-05
+
+ Score = 41.6 bits (96),  Expect = 8e-05, Method: Compositional matrix adjust.
+ Identities = 47/186 (25%), Positives = 81/186 (44%), Gaps = 45/186 (24%)
+  Coverage  =  0.483116883116883      Length  =  385
+    
+
+M768_11575--NotNucleotides.txt
+
+
+  gi|922584030|gb|ATNL01000008.1| Cellulosimicrobium cellulans F1...  2492    0.0   
+
+ Score = 2492 bits (6460),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1258/1258 (100%), Positives = 1258/1258 (100%), Gaps = 0/1258 (0%)
+  Coverage  =  0.959572845156369      Length  =  1311
+    
+  NC_015588.1 Isoptericola variabilis 225, complete genome            1670    0.0  
+ Score = 1670 bits (4325),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 857/1271 (67%), Positives = 980/1271 (77%), Gaps = 17/1271 (1%)
+  Coverage  =  0.969488939740656      Length  =  1311
+    
+
+  NZ_JNBQ01000001.1 Cellulosimicrobium funkei strain U11 contig00...  2487    0.0   
+
+ Score = 2487 bits (6447),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1254/1258 (99%), Positives = 1256/1258 (99%), Gaps = 0/1258 (0%)
+  Coverage  =  0.959572845156369      Length  =  1311
+    
+  NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome        358     1e-102
+ Score = 358 bits (920),  Expect = 1e-102, Method: Compositional matrix adjust.
+ Identities = 270/705 (38%), Positives = 356/705 (50%), Gaps = 89/705 (13%)
+  Coverage  =  0.537757437070938      Length  =  1311
+    
+
+  NZ_JOFV01000002.1 Oerskovia turbata strain NRRL B-8019 contig2....  354     5e-101
+
+ Score = 354 bits (908),  Expect = 5e-101, Method: Compositional matrix adjust.
+ Identities = 261/714 (37%), Positives = 355/714 (50%), Gaps = 89/714 (12%)
+  Coverage  =  0.544622425629291      Length  =  1311
+    
+  NZ_ARQM01000010.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  1706    0.0   
+
+ Score = 1706 bits (4417),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 869/1266 (69%), Positives = 1000/1266 (79%), Gaps = 9/1266 (1%)
+  Coverage  =  0.965675057208238      Length  =  1311
+    
+  NZ_LRIE01000058.1 Oerskovia enterophila strain VJag OJAG_contig...  351     4e-100
+
+ Score = 351 bits (901),  Expect = 4e-100, Method: Compositional matrix adjust.
+ Identities = 263/718 (37%), Positives = 358/718 (50%), Gaps = 97/718 (14%)
+  Coverage  =  0.547673531655225      Length  =  1311
+    
+  NZ_JAGJ01000013.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  2245    0.0   
+
+ Score = 2245 bits (5817),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1133/1262 (90%), Positives = 1184/1262 (94%), Gaps = 4/1262 (0%)
+  Coverage  =  0.962623951182304      Length  =  1311
+    
+
+
+M768_11580--NotNucleotides.txt
+
+
+  gi|922584030|gb|ATNL01000008.1| Cellulosimicrobium cellulans F1...  1429    0.0  
+
+ Score = 1429 bits (3700),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 762/762 (100%), Positives = 762/762 (100%), Gaps = 0/762 (0%)
+  Coverage  =  0.92588092345079      Length  =  823
+    
+  NC_015588.1 Isoptericola variabilis 225, complete genome            720     0.0  
+ Score = 720 bits (1858),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 437/763 (57%), Positives = 531/763 (70%), Gaps = 4/763 (1%)
+  Coverage  =  0.927095990279465      Length  =  823
+    
+
+  NZ_JNBQ01000001.1 Cellulosimicrobium funkei strain U11 contig00...  1399    0.0  
+
+ Score = 1399 bits (3620),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 746/762 (98%), Positives = 754/762 (99%), Gaps = 0/762 (0%)
+  Coverage  =  0.92588092345079      Length  =  823
+    
+
+
+  NZ_ARQM01000010.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  466     3e-143
+
+ Score = 466 bits (1199),  Expect = 3e-143, Method: Compositional matrix adjust.
+ Identities = 296/489 (61%), Positives = 345/489 (71%), Gaps = 3/489 (1%)
+  Coverage  =  0.594167679222357      Length  =  823
+    
+
+  NZ_JAGJ01000013.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  1274    0.0  
+
+ Score = 1274 bits (3296),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 689/759 (91%), Positives = 715/759 (94%), Gaps = 0/759 (0%)
+  Coverage  =  0.922235722964763      Length  =  823
+    
+
+M768_11760--NotNucleotides.txt
+
+
+  gi|922584030|gb|ATNL01000008.1| Cellulosimicrobium cellulans F1...  1030    0.0  
+
+ Score = 1030 bits (2664),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 546/546 (100%), Positives = 546/546 (100%), Gaps = 0/546 (0%)
+  Coverage  =  0.952879581151832      Length  =  573
+    
+  NC_015588.1 Isoptericola variabilis 225, complete genome            583     0.0  
+ Score = 583 bits (1504),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 316/445 (71%), Positives = 349/445 (78%), Gaps = 4/445 (1%)
+  Coverage  =  0.776614310645724      Length  =  573
+    
+  NC_015514.1 Cellulomonas fimi ATCC 484, complete genome             477     1e-150
+ Score = 477 bits (1227),  Expect = 1e-150, Method: Compositional matrix adjust.
+ Identities = 279/450 (62%), Positives = 319/450 (71%), Gaps = 14/450 (3%)
+  Coverage  =  0.785340314136126      Length  =  573
+    
+  NZ_JNBQ01000001.1 Cellulosimicrobium funkei strain U11 contig00...  1017    0.0  
+
+ Score = 1017 bits (2629),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 540/546 (99%), Positives = 544/546 (99%), Gaps = 0/546 (0%)
+  Coverage  =  0.952879581151832      Length  =  573
+    
+
+  NC_014151.1 Cellulomonas flavigena DSM 20109, complete genome       452     4e-142
+ Score = 452 bits (1163),  Expect = 4e-142, Method: Compositional matrix adjust.
+ Identities = 262/448 (58%), Positives = 310/448 (69%), Gaps = 10/448 (2%)
+  Coverage  =  0.781849912739965      Length  =  573
+    
+  NZ_JOFV01000006.1 Oerskovia turbata strain NRRL B-8019 contig6....  684     0.0  
+
+ Score = 684 bits (1764),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 377/548 (69%), Positives = 427/548 (78%), Gaps = 10/548 (2%)
+  Coverage  =  0.956369982547993      Length  =  573
+    
+
+  NZ_LRIE01000084.1 Oerskovia enterophila strain VJag OJAG_contig...  668     0.0  
+
+ Score = 668 bits (1724),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 369/548 (67%), Positives = 418/548 (76%), Gaps = 10/548 (2%)
+  Coverage  =  0.956369982547993      Length  =  573
+    
+  NZ_JAGJ01000013.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  957     0.0  
+
+ Score = 957 bits (2474),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 503/546 (92%), Positives = 524/546 (96%), Gaps = 0/546 (0%)
+  Coverage  =  0.952879581151832      Length  =  573
+    
+
+M768_13690--NotNucleotides.txt
+
+
+  gi|922583310|gb|ATNL01000011.1| Cellulosimicrobium cellulans F1...  337     5e-108
+
+ Score = 337 bits (865),  Expect = 5e-108, Method: Compositional matrix adjust.
+ Identities = 209/209 (100%), Positives = 209/209 (100%), Gaps = 0/209 (0%)
+  Coverage  =  1      Length  =  209
+    
+  NC_013530.1 Xylanimonas cellulosilytica DSM 15894, complete genome  48.9    1e-07
+ Score = 48.9 bits (115),  Expect = 1e-07, Method: Compositional matrix adjust.
+ Identities = 44/121 (36%), Positives = 54/121 (45%), Gaps = 8/121 (7%)
+  Coverage  =  0.578947368421053      Length  =  209
+    
+  NZ_JNBQ01000031.1 Cellulosimicrobium funkei strain U11 contig00...  337     5e-108
+
+ Score = 337 bits (865),  Expect = 5e-108, Method: Compositional matrix adjust.
+ Identities = 209/209 (100%), Positives = 209/209 (100%), Gaps = 0/209 (0%)
+  Coverage  =  1      Length  =  209
+    
+  NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome        44.3    4e-06
+ Score = 44.3 bits (103),  Expect = 4e-06, Method: Compositional matrix adjust.
+ Identities = 49/159 (31%), Positives = 69/159 (43%), Gaps = 19/159 (12%)
+  Coverage  =  0.760765550239234      Length  =  209
+    
+  NC_014151.1 Cellulomonas flavigena DSM 20109, complete genome       73.2    6e-16
+ Score = 73.2 bits (178),  Expect = 6e-16, Method: Compositional matrix adjust.
+ Identities = 63/153 (41%), Positives = 73/153 (48%), Gaps = 7/153 (5%)
+  Coverage  =  0.732057416267943      Length  =  209
+    
+  NZ_JOFV01000008.1 Oerskovia turbata strain NRRL B-8019 contig8....  102     3e-26
+
+ Score = 102 bits (255),  Expect = 3e-26, Method: Compositional matrix adjust.
+ Identities = 95/226 (42%), Positives = 126/226 (56%), Gaps = 25/226 (11%)
+  Coverage  =  1.08133971291866      Length  =  209
+    
+  NZ_ARQM01000012.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  102     6e-26
+
+ Score = 102 bits (254),  Expect = 6e-26, Method: Compositional matrix adjust.
+ Identities = 81/166 (49%), Positives = 97/166 (58%), Gaps = 11/166 (7%)
+  Coverage  =  0.794258373205742      Length  =  209
+    
+  NZ_LRIE01000079.1 Oerskovia enterophila strain VJag OJAG_contig...  102     5e-26
+
+ Score = 102 bits (254),  Expect = 5e-26, Method: Compositional matrix adjust.
+ Identities = 94/228 (41%), Positives = 129/228 (57%), Gaps = 31/228 (14%)
+  Coverage  =  1.09090909090909      Length  =  209
+    
+  NZ_JAGJ01000022.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  280     4e-88
+
+ Score = 280 bits (716),  Expect = 4e-88, Method: Compositional matrix adjust.
+ Identities = 176/211 (83%), Positives = 190/211 (90%), Gaps = 2/211 (1%)
+  Coverage  =  1.00956937799043      Length  =  209
+    
+  NZ_AXCX01000297.1 Actinotalea fermentans ATCC 43279 = JCM 9966 ...  63.9    6e-13
+
+ Score = 63.9 bits (154),  Expect = 6e-13, Method: Compositional matrix adjust.
+ Identities = 58/158 (37%), Positives = 75/158 (47%), Gaps = 15/158 (9%)
+  Coverage  =  0.755980861244019      Length  =  209
+    
+
+M768_15505--NotNucleotides.txt
+
+
+  gi|922583055|gb|ATNL01000012.1| Cellulosimicrobium cellulans F1...  847     0.0   
+
+ Score = 847 bits (2188),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 446/446 (100%), Positives = 446/446 (100%), Gaps = 0/446 (0%)
+  Coverage  =  0.950959488272921      Length  =  469
+    
+  NC_015588.1 Isoptericola variabilis 225, complete genome            389     9e-122
+ Score = 389 bits (998),  Expect = 9e-122, Method: Compositional matrix adjust.
+ Identities = 200/346 (58%), Positives = 246/346 (71%), Gaps = 3/346 (1%)
+  Coverage  =  0.73773987206823      Length  =  469
+    
+
+  NZ_JNBQ01000039.1 Cellulosimicrobium funkei strain U11 contig00...  841     0.0   
+
+ Score = 841 bits (2172),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 444/446 (99%), Positives = 444/446 (99%), Gaps = 0/446 (0%)
+  Coverage  =  0.950959488272921      Length  =  469
+    
+  NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome        475     1e-151
+ Score = 475 bits (1222),  Expect = 1e-151, Method: Compositional matrix adjust.
+ Identities = 247/352 (70%), Positives = 270/352 (77%), Gaps = 5/352 (1%)
+  Coverage  =  0.750533049040512      Length  =  469
+    
+  NZ_JOFV01000002.1 Oerskovia turbata strain NRRL B-8019 contig2....  223     2e-64
+
+ Score = 223 bits (568),  Expect = 2e-64, Method: Compositional matrix adjust.
+ Identities = 116/258 (45%), Positives = 156/258 (60%), Gaps = 34/258 (13%)
+  Coverage  =  0.550106609808102      Length  =  469
+    
+  NZ_ARQM01000015.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  229     2e-66
+
+ Score = 229 bits (585),  Expect = 2e-66, Method: Compositional matrix adjust.
+ Identities = 122/259 (47%), Positives = 158/259 (61%), Gaps = 34/259 (13%)
+  Coverage  =  0.552238805970149      Length  =  469
+    
+  NZ_LRIE01000058.1 Oerskovia enterophila strain VJag OJAG_contig...  219     3e-63
+
+ Score = 219 bits (559),  Expect = 3e-63, Method: Compositional matrix adjust.
+ Identities = 118/256 (46%), Positives = 150/256 (59%), Gaps = 34/256 (13%)
+  Coverage  =  0.545842217484009      Length  =  469
+    
+  NZ_JAGJ01000005.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  763     0.0   
+
+ Score = 763 bits (1969),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 389/446 (87%), Positives = 418/446 (94%), Gaps = 0/446 (0%)
+  Coverage  =  0.950959488272921      Length  =  469
+    
+
+
+M768_15610--NotNucleotides.txt
+
+
+  gi|922583055|gb|ATNL01000012.1| Cellulosimicrobium cellulans F1...  2374    0.0   
+
+ Score = 2374 bits (6152),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1231/1232 (99%), Positives = 1232/1232 (100%), Gaps = 0/1232 (0%)
+  Coverage  =  1      Length  =  1232
+    
+  NC_015588.1 Isoptericola variabilis 225, complete genome            795     0.0  
+ Score = 795 bits (2054),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 446/812 (55%), Positives = 564/812 (69%), Gaps = 50/812 (6%)
+  Coverage  =  0.659090909090909      Length  =  1232
+    
+
+
+  NZ_JNBQ01000016.1 Cellulosimicrobium funkei strain U11 contig00...  2368    0.0   
+
+ Score = 2368 bits (6138),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1228/1232 (99%), Positives = 1230/1232 (99%), Gaps = 0/1232 (0%)
+  Coverage  =  1      Length  =  1232
+    
+  NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome        834     0.0  
+ Score = 834 bits (2154),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 475/819 (58%), Positives = 566/819 (69%), Gaps = 45/819 (5%)
+  Coverage  =  0.664772727272727      Length  =  1232
+    
+
+  NZ_JOFV01000017.1 Oerskovia turbata strain NRRL B-8019 contig17...  783     0.0   
+
+ Score = 783 bits (2022),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 450/821 (55%), Positives = 554/821 (67%), Gaps = 56/821 (7%)
+  Coverage  =  0.666396103896104      Length  =  1232
+    
+  NZ_ARQM01000015.1 Promicromonospora sukumoe 327MFSha3.1 H291DRA...  793     0.0   
+
+ Score = 793 bits (2047),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 450/844 (53%), Positives = 571/844 (68%), Gaps = 42/844 (5%)
+  Coverage  =  0.685064935064935      Length  =  1232
+    
+  NZ_LRIE01000036.1 Oerskovia enterophila strain VJag OJAG_contig...  790     0.0   
+
+ Score = 790 bits (2039),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 450/821 (55%), Positives = 554/821 (67%), Gaps = 56/821 (7%)
+  Coverage  =  0.666396103896104      Length  =  1232
+    
+  NZ_JAGJ01000005.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  1900    0.0   
+
+ Score = 1900 bits (4922),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 991/1234 (80%), Positives = 1091/1234 (88%), Gaps = 4/1234 (0%)
+  Coverage  =  1.00162337662338      Length  =  1232
+    
+
+M768_16095--NotNucleotides.txt
+
+
+  gi|922582798|gb|ATNL01000013.1| Cellulosimicrobium cellulans F1...  1144    0.0  
+
+ Score = 1144 bits (2958),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 659/659 (100%), Positives = 659/659 (100%), Gaps = 0/659 (0%)
+  Coverage  =  0.926863572433193      Length  =  711
+    
+
+  NZ_JNBQ01000007.1 Cellulosimicrobium funkei strain U11 contig00...  1117    0.0  
+
+ Score = 1117 bits (2890),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 642/659 (97%), Positives = 647/659 (98%), Gaps = 0/659 (0%)
+  Coverage  =  0.926863572433193      Length  =  711
+    
+  NZ_CP014209.1 Isoptericola dokdonensis DS-3, complete genome        99.8    4e-22
+ Score = 99.8 bits (247),  Expect = 4e-22, Method: Compositional matrix adjust.
+ Identities = 106/298 (36%), Positives = 141/298 (47%), Gaps = 35/298 (12%)
+  Coverage  =  0.419127988748242      Length  =  711
+    
+
+
+
+
+
+
+M768_18415--NotNucleotides.txt
+
+
+  gi|922582378|gb|ATNL01000015.1| Cellulosimicrobium cellulans F1...  1967    0.0  
+
+ Score = 1967 bits (5096),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1172/1172 (100%), Positives = 1172/1172 (100%), Gaps = 0/1172 (0%)
+  Coverage  =  0.976666666666667      Length  =  1200
+    
+
+  NC_015514.1 Cellulomonas fimi ATCC 484, complete genome             865     0.0  
+ Score = 865 bits (2234),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 598/1061 (56%), Positives = 732/1061 (69%), Gaps = 30/1061 (3%)
+  Coverage  =  0.884166666666667      Length  =  1200
+    
+  NZ_JNBQ01000005.1 Cellulosimicrobium funkei strain U11 contig00...  1924    0.0  
+
+ Score = 1924 bits (4985),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1148/1167 (98%), Positives = 1159/1167 (99%), Gaps = 0/1167 (0%)
+  Coverage  =  0.9725      Length  =  1200
+    
+
+  NC_014151.1 Cellulomonas flavigena DSM 20109, complete genome       742     0.0  
+ Score = 742 bits (1916),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 561/1071 (52%), Positives = 696/1071 (65%), Gaps = 54/1071 (5%)
+  Coverage  =  0.8925      Length  =  1200
+    
+  NZ_JOFV01000001.1 Oerskovia turbata strain NRRL B-8019 contig1....  1360    0.0  
+
+ Score = 1360 bits (3519),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 845/1177 (72%), Positives = 962/1177 (82%), Gaps = 9/1177 (1%)
+  Coverage  =  0.980833333333333      Length  =  1200
+    
+
+  NZ_LRIE01000073.1 Oerskovia enterophila strain VJag OJAG_contig...  1365    0.0  
+
+ Score = 1365 bits (3532),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 843/1174 (72%), Positives = 957/1174 (82%), Gaps = 6/1174 (1%)
+  Coverage  =  0.978333333333333      Length  =  1200
+    
+  NZ_JAGJ01000023.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  1789    0.0  
+
+ Score = 1789 bits (4633),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 1071/1173 (91%), Positives = 1119/1173 (95%), Gaps = 1/1173 (0%)
+  Coverage  =  0.9775      Length  =  1200
+    
+  NZ_AXCX01000177.1 Actinotalea fermentans ATCC 43279 = JCM 9966 ...  897     0.0  
+
+ Score = 897 bits (2317),  Expect = 0.0, Method: Compositional matrix adjust.
+ Identities = 602/1065 (57%), Positives = 746/1065 (70%), Gaps = 38/1065 (4%)
+  Coverage  =  0.8875      Length  =  1200
+    
+
+M768_19580--NotNucleotides.txt
+
+
+  gi|922583596|gb|ATNL01000010.1| Cellulosimicrobium cellulans F1...  506     2e-165
+
+ Score = 506 bits (1303),  Expect = 2e-165, Method: Compositional matrix adjust.
+ Identities = 285/286 (99%), Positives = 286/286 (100%), Gaps = 0/286 (0%)
+  Coverage  =  1      Length  =  286
+    
+  NZ_JNBQ01000017.1 Cellulosimicrobium funkei strain U11 contig00...  506     2e-165
+
+ Score = 506 bits (1303),  Expect = 2e-165, Method: Compositional matrix adjust.
+ Identities = 285/286 (99%), Positives = 286/286 (100%), Gaps = 0/286 (0%)
+  Coverage  =  1      Length  =  286
+    
+  NZ_JAGJ01000003.1 Cellulosimicrobium cellulans J36 CelceDRAFT_s...  483     1e-157
+
+ Score = 483 bits (1244),  Expect = 1e-157, Method: Compositional matrix adjust.
+ Identities = 273/286 (95%), Positives = 279/286 (98%), Gaps = 0/286 (0%)
+  Coverage  =  1      Length  =  286
+    

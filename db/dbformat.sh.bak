@@ -1,0 +1,15 @@
+cd `dirname $0`
+
+echo "Please put all the db data under the path of this shell!!"
+
+for file in ./*
+do
+    if test -f $file
+    then
+filename=${file##*/}  
+cutfilename=${filename%%.*} 
+ makeblastdb -in  $filename -out $cutfilename  -dbtype nucl
+#        makeblastdb-in $file -out ${filename%.*} -dbtype nucl
+    fi
+    
+done
