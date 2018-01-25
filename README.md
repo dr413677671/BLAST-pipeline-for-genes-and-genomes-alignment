@@ -1,6 +1,6 @@
 # BLAST pipeline for genes' and genomes' alignment
 Ran Duan / March 17th 2017 ;)
-Emai: 413677671@qq.com
+Email: 413677671@qq.com
 
 
 Information
